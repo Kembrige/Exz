@@ -1,0 +1,15 @@
+C:\Users\Kembrige\source\repos\Exz\Exz\bin\Debug\net7.0\Exz.exe
+C:\Users\Kembrige\source\repos\Exz\Exz\bin\Debug\net7.0\Exz.deps.json
+C:\Users\Kembrige\source\repos\Exz\Exz\bin\Debug\net7.0\Exz.runtimeconfig.json
+C:\Users\Kembrige\source\repos\Exz\Exz\bin\Debug\net7.0\Exz.dll
+C:\Users\Kembrige\source\repos\Exz\Exz\bin\Debug\net7.0\Exz.pdb
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.csproj.AssemblyReference.cache
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.AssemblyInfoInputs.cache
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.AssemblyInfo.cs
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.csproj.CoreCompileInputs.cache
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.dll
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\refint\Exz.dll
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.pdb
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\Exz.genruntimeconfig.cache
+C:\Users\Kembrige\source\repos\Exz\Exz\obj\Debug\net7.0\ref\Exz.dll
